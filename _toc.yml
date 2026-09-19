@@ -1,14 +1,11 @@
-project:
-  id: 8c81acd4-d746-4b6f-a534-064a3f95296d
-  toc:
-    - file: intro.md
-    - title: Notebooks
-      children:
-        - file: Ratunil Jbook.ipynb
-    # - title: Projects
-    #   children:
-    #     - file: project1.ipynb
-    #     - file: project2.ipynb
-    # - title: Notes
-    #   children:
-    #     - file: notes.md
+format: jb-book
+root: intro
+
+chapters:
+  - title: Elective 4
+    sections:
+      - file: Ratunil Jbook
+
+  - title: Personal Projects
+    sections:
+      - file: fm_data
