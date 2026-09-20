@@ -4,13 +4,13 @@ root: intro
 chapters:
   - title: Elective 4
     sections:
-      - file: Laboratory Task 2
-      - file: Laboratory Task 3
-      - file: Laboratory Task 4
-      - file: Laboratory Task 5
+      - file: Laboratory Task 2.ipynb
+      - file: Laboratory Task 3.ipynb
+      - file: Laboratory Task 4.ipynb
+      - file: Laboratory Task 5.ipynb
         title: Laboratory Task 5
-      - file: Laboratory Task 6
+      - file: Laboratory Task 6.ipynb
 
   - title: Personal Projects
     sections:
-      - file: fm_data
+      - file: fm_data.ipynb
