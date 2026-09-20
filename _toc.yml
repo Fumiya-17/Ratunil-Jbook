@@ -4,7 +4,10 @@ root: intro
 chapters:
   - title: Elective 4
     sections:
-      - file: Ratunil Jbook
+      - file: Laboratory Task 2
+      - file: Laboratory Task 3
+      - file: Laboratory Task 4
+      - file: Laboratory Task 5
 
   - title: Personal Projects
     sections:
