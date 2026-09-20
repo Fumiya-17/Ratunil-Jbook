@@ -5,19 +5,13 @@ chapters:
   - title: Elective 4
     sections:
       - file: Laboratory Task 2
-        title: Laboratory Task 2
       - file: Laboratory Task 3
-        title: Laboratory Task 3
       - file: Laboratory Task 4
-        title: Laboratory Task 4
       - file: Laboratory Task 5
         title: Laboratory Task 5
       - file: Laboratory Task 6
-        title: Laboratory Task 6
 
   - title: Personal Projects
     sections:
       - file: fm_data
-        title: FM Data
       - file: Junkfood
-        title: Junkfood
