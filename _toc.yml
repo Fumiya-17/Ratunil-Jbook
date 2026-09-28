@@ -11,8 +11,9 @@ chapters:
         title: Laboratory Task 5
       - file: Laboratory Task 6.ipynb
       - file: Ratunil_image class.ipynb
-      - file: CDO_Temp_Study.ipynb
+      
 
   - title: Personal Projects
     sections:
       - file: fm_data.ipynb
+      - file: CDO_Temp_Study.ipynb
