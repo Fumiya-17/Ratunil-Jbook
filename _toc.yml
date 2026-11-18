@@ -12,6 +12,11 @@ chapters:
       - file: Laboratory Task 6.ipynb
       - file: Ratunil_image class.ipynb
       
+  - title: Deep Learning Blog Post
+    sections:
+      - file: RATUNIL Blog-words.ipynb
+      #- file: Deep Learning Blog Post 2.ipynb
+
 
   - title: Personal Projects
     sections:
